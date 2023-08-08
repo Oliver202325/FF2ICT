@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "freak_fortress_2/newscp106/106_diffuse"
+	"$bumpmap" "freak_fortress_2/newscp106/106_normal"
+	"$surfaceprop" "Flesh"
+}
