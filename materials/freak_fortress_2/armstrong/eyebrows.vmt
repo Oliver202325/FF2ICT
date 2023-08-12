@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 				"freak_fortress_2\armstrong\eyebrows"
+
+	"$translucent" "1"
+	"$nocull" "1"
+	"$lightwarptexture" "freak_fortress_2\armstrong\armstrong_lightwarp"
+	"$ambientocclusion" 0
+}
+

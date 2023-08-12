@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"freak_fortress_2/daftpunk2/white"
+	"$bumpmap" "freak_fortress_2/daftpunk2/white_normal"
+
+                "$normalmapalphaenvmapmask" 1
+
+	"$phong" "1"
+	"$phongexponent" "70"
+	"$phongboost" "2"	
+	"$lightwarptexture" "models\lightwarps\weapon_lightwarp"
+	"$phongfresnelranges"	"[.25 .5 1]"
+
+}
